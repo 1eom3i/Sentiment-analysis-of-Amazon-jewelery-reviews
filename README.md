@@ -25,5 +25,5 @@ many contractions in English that you can think of.
 
 - Feedforward Neural Networks: a network with two hidden layers, each with 50 and 10 nodes, respectively
 - Recurrent Neural Networks: 
- - An RNN cell with the hidden state size of 20. To feed your data into our RNN, limit the maximum review length to 20 by truncating longer reviews and padding shorter reviews with a null value (0). 
- - A gated recurrent unit cell.
+ -- An RNN cell with the hidden state size of 20. To feed your data into our RNN, limit the maximum review length to 20 by truncating longer reviews and padding shorter reviews with a null value (0). 
+ -- A gated recurrent unit cell.
